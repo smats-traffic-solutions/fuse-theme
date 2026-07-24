@@ -1,7 +1,8 @@
 # Github Page
-[Live Demo](https://smats-traffic-solutions.github.io/fuse-theme/)
 
-[Components Manifest](https://smats-traffic-solutions.github.io/fuse-theme/)
+- [Live Demo](https://smats-traffic-solutions.github.io/fuse-theme/)
+
+- [Components Manifest](https://smats-traffic-solutions.github.io/fuse-theme/)
 
 
 # Fuse - Admin template and Starter project for Angular
